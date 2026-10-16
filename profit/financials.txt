@@ -1,0 +1,3 @@
+Before Tax: 90.00
+After Tax: 88.20
+Ratio: 1.02
